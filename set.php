@@ -9,12 +9,12 @@
 
 # username  to get followers 
 # Enter the original account username
-$youser="__mohammadasad";
+$youser="increasefollowersname";
 
 # Username fake account 
 # Enter the username of the account that was sacrificed
-$t_user="gajauzbzbs";
+$t_user="usernamefake";
 
 # Passwoard/ fake account 
 # enter the password of the account that was sacrificed
-$t_pass="Asad123@";
+$t_pass="pass";
